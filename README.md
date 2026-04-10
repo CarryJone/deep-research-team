@@ -1,6 +1,23 @@
 # Deep Research Team
 
+This repository now contains two reusable skills:
+
+- `deep-research-team` at the repository root
+- `prompt-master` in [`prompt-master/`](./prompt-master)
+
 Deploy a team of specialized AI research agents that work in parallel, cross-validate findings, and deliver structured, source-cited reports — all inside your coding environment.
+
+## Repository Layout
+
+```text
+.
+├── README.md
+├── SKILL.md                     ← deep-research-team
+├── prompts/
+└── prompt-master/
+    ├── SKILL.md                 ← prompt-master
+    └── references/
+```
 
 ## Quick Start
 
